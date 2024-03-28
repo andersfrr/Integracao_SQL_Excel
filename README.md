@@ -6,7 +6,11 @@ Estabelecer uma integração entre o SQL Server e o Excel, para podermos trabalh
 Indicadores analisados:
 
 Total de Vendas Internet por Categoria do Produto;
+
 Receita Total Internet por Mês do Pedido;
+
 Receita e Custo Total Internet por País;
+
 Total de Vendas Internet por Sexo do Cliente.
+
 Obs.: Analisaremos somente os pedidos efetuados em 2013.
